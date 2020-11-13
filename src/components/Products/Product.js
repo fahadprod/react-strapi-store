@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// impt
 import PropTypes from "prop-types";
 import img from "../../assets/mainBcg.jpeg";
 export default function Product({ image, title, id, price }) {
